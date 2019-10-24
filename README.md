@@ -1,2 +1,2 @@
 # AFECF
-Learning Rubust Correlation Filters with Adaptive Foreground Estimation for Visual Tracking
+Robust Correlation Filters Tracking via Adaptive Foreground Estimation
